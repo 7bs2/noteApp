@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="ColorLightBlack">#171c26</color>
+    <color name="ColorDarkBlack">#191C26</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ColorYellow">#ffd633</color>
+    <color name="ColorBlue">#4e33ff</color>
+    <color name="ColorGrey">#93919C</color>
+    <color name="ColorBrownness">#00FFFFFF</color>
+    <color name="foreground_color">#2B2B2B</color>
+    <color name="ColorDefaultNote">#202734</color>
+    <color name="ColorBlueNote">#4e33ff</color>
+    <color name="ColorYellowtNote">#ffd633</color>
+    <color name="ColorPurpleNote">#ae3b76</color>
+    <color name="ColorGreenNote">#31E1B2</color>
+    <color name="ColorOrangeNote">#ff7746</color>
+    <color name="ColorBlackNote">#2B2B2B</color>
+</resources>
