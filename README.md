@@ -8,6 +8,7 @@
 
 * 练习使用BottomSheetFragment进行颜色的选取
 
-  ![image]()
+  ![image](https://github.com/7bs2/noteApp/blob/main/img/Snipaste_2022-03-02_11-28-02.png)
 
 * 本地数据库，使用room增删改查
+
