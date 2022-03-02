@@ -8,4 +8,6 @@
 
 * 练习使用BottomSheetFragment进行颜色的选取
 
+  ![image]()
+
 * 本地数据库，使用room增删改查
